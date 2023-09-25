@@ -28,4 +28,4 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Harshch42/Weather-app.git
