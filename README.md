@@ -1,4 +1,4 @@
-# Weather App/Website
+# Weather App
 
 A simple weather app/website that allows users to check the weather forecast for different locations.
 
